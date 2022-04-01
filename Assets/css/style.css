@@ -31,12 +31,15 @@ textarea {
   border-radius: 15px;
 }
 
+/* added text allignment */
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
   margin-right: -190px;
   margin-left: -90px;
+  text-align: center;
+  font-weight: bold;
 }
 
 .hour {
