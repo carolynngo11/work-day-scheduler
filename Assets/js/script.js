@@ -18,9 +18,10 @@ localStorage.setItem(time, textInput);
 function currentTimeTracker() {
     var currentTime = moment().hour();
 
+// Timeblock color function
 // Function to run each of the timeblock
     // Create conditions
-// Timeblock color function
+    
 $(".time-block").each(function () {
     var timeBlock = parseInt($(this).attr("id").split("time")[1]);
 
@@ -36,8 +37,8 @@ $(".time-block").each(function () {
         $(this).removeClass("present");
         $(this).addClass("future");
 
-        }
-    })
+    }
+})
 };
 
 // Save into local storage from each timeblock
