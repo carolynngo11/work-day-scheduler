@@ -27,7 +27,7 @@ This assignment asks to create a schedule with a description box for each timesl
 - Added loop function to timeblock
     - Created conditions
 
-LINK FOR SCREENSHOT
+![work-day-schedule-screenshot](https://user-images.githubusercontent.com/99929883/161193645-7b331b3a-f44c-45a1-9c11-d4b4f78a85ce.JPG)
 
 **Key:**
 - ![#decbb7](https://via.placeholder.com/15/decbb7/000000?text=+) `Past`
