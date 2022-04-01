@@ -33,7 +33,7 @@ textarea {
   border-radius: 15px;
 }
 
-/* Added text allignment and margin */
+/* Added text allignment, font weight, and margin */
 .row {
   white-space: pre-wrap;
   height: 80px;
